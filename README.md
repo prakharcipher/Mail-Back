@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1) Clone the repository in your local machine.
 
-2) Go to the repository folder.
+2) Go to the server folder.
 
 3) Install all the dependencies.
 
